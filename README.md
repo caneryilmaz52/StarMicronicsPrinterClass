@@ -13,3 +13,4 @@ Include this class in your project by changing the data and receipt design.
 If you have a question or problem, write to me.
 
 Best regards.
+-
